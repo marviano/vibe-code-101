@@ -133,8 +133,6 @@ congrats, uve built the core game! it might be rough and missing features, but n
 **q: i am making an app, not a game, is this the same workflow?**  
 **a:** its mostly the same workflow, yes! instead of a gdd (game design document), u can do a prd (product requirements document). u can also use great tools like v0, lovable, or bolt.new to prototype first and then move ur code to github, and then clone it to continue on vscode or in the terminal with this guide.
 
-**q: ur plane in ur dogfight game is amazing, but i cant replicate it in one prompt!**  
-**a:** its not one prompt—its ~30 prompts, guided by a specific `plane-roadmap.md` file. use sharp, specific prompts like "cut out space in the wings for ailerons," not vague ones like "make a plane."
 
 **q: why is claude code or codex cli better than cursor right now?**  
 **a:** it really is up to ur liking. i highlight that claude code is better at using claude sonnet 4.5, and codex cli is better at using gpt-5 than cursor is at using either of them. having them live in the terminal unlocks many more development workflows: working from any ide, hopping onto a remote server through ssh, and so on. there are poirful customization options such as custom commands, sub-agents, and hooks that will speed up both the quality and the pace of development over time. finally, if ure on the loir-tier claude or chatgpt plan, thats enough to get started.
