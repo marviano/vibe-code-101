@@ -1,4 +1,4 @@
-# AI Dev Flow 101 V2
+# Vibe Code 101 V2
 **by Austin Sebastian Marviano**
 
 **Written on:** 8 Oct 2025  
