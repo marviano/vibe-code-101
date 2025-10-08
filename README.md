@@ -1,7 +1,7 @@
-# Ultimate Guide to Vibe Coding V1.2
-**Author:** [Nicolas Zullo, https://x.com/NicolasZu](https://x.com/NicolasZu)  
-**Creation Date:** March 12, 2025  
-**Last Update Date:** October 06, 2025  
+# Vibe Code 101 V1
+**by Austin Sebastian Marviano
+Written on: 8 Oct 2025  
+Last Update: October 06, 2025  **
 
 ---
 
