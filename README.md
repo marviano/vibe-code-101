@@ -1,7 +1,7 @@
 # Vibe Code 101 V1
-**by Austin Sebastian Marviano
-Written on: 8 Oct 2025  
-Last Update: October 06, 2025  **
+**by Austin Sebastian Marviano**
+**Written on: 8 Oct 2025  **
+**Last Update: October 06, 2025  **
 
 ---
 
